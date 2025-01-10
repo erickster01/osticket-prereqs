@@ -52,7 +52,7 @@ Scroll down to find the "Image" option and select "Windows 10 Pro, Version 22H2,
 You don’t need to change any default settings on the following pages, but make sure the licensing box is checked on the first page. Once done, proceed to review and create the virtual machine. The system will automatically create a virtual network, so you don’t need to configure that..</p>
 
 <p>
-<img src="https://i.imgur.com/G2mmFrE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2p5W6l4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>3) Connecting to Remote Desktop</h3>
@@ -61,11 +61,11 @@ You don’t need to change any default settings on the following pages, but make
 </p>
 
 <p>
-<img src="https://i.imgur.com/XhlWo4x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZKDh4H1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/kgPFpyr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uJG1Mft.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>4) Downloading OsTicket</h3>
@@ -225,7 +225,7 @@ After finishing step 10 correctly, you can then procceed to open another file ex
 
 <p>Once this is done, you can then go back to the "Database Settings" Column on the "Os-Ticket Installer" browser and Type in your "MySQL Database" (osTicket), Username and password (password from step 7). Once you have typed everything in correctly you can click "Install" and you have finally installed everything you need for os-ticket to work on your remote desktop!</p>
 
-<img src="https://i.imgur.com/M7SEqAZ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eTHDdBB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <h4>Congratulations!</h4>
 
