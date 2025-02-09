@@ -45,7 +45,7 @@ Start by searching and selecting the "Virtual Machines" in the search bar of Mic
 <h3>2) Setting up Resource Group</h3>
 
 <p>
- After clicking on the "Virtual Machine Name", you can name it anything you like. For this tutorial, we’ll name ours "osticket-vm". Select "Create new Resource Group" and click on the virtual machine you just created, and name the resource group "osticket." Choose your region based on your location (e.g., "Central Canada" if you're in Canada).
+ After clicking on the "Virtual Machine Name", you can name it anything you like. For this tutorial, we’ll name ours "osticket-vm". Select "Create new Resource Group" and click on the virtual machine you just created, and name the resource group "osticket." Choose your region based on your location.
 
 Scroll down to find the "Image" option and select "Windows 10 Pro, Version 22H2, x64 Gen2." Ensure the virtual machine has at least 2 vCPUs and 16 GB of memory, which you can set in the "Size" option on the same page.
 
